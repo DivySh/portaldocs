@@ -41,7 +41,7 @@ Onboarding to Azure all up is a big task that spans many teams. The doc you are 
 
 1. Azure.com team 
    
-   For a presence on the marketing site.
+   ACOM (Azure.microsoft.com) is a collection of services that provide the first touch experience and ongoing engagement with Azure customers through the Azure.microsoft.com website. The primary goals for ACOM are to acquire more customers and grow usage of existing customers. Please refer to this ACOM onboarding checklist: [https://acom.azure.net/documentation/process-onboarding-service-stakeholder-checklist/](https://acom.azure.net/documentation/process-onboarding-service-stakeholder-checklist/)
 
 1. Billing team – Vikram Desai
    
